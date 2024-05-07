@@ -8,3 +8,13 @@ Run the commands given in following steps from the parent directory of the root 
     mv resnet-18.mar model_store/
     torchserve --start --model-store model_store --models resnet-18=resnet-18.mar
     curl http://127.0.0.1:8080/predictions/resnet-18 -T ./examples/image_classifier/kitten.jpg
+
+produces the output as :
+For the kitten Image
+                              {
+                          "tabby": 0.40966343879699707,
+                          "tiger_cat": 0.346704363822937,
+                          "Egyptian_cat": 0.13002890348434448,
+                          "lynx": 0.023919545114040375,
+                          "bucket": 0.011532172560691833
+                              }
