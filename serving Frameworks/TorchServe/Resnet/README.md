@@ -41,19 +41,18 @@ Create a directory to store your models.
     mkdir model_store
 Download a trained model.
 
-    wget https://download.pytorch.org/models/densenet161-8d451a50.pth
+    wget https://download.pytorch.org/models/resnet18-f37072fd.pth
 
 Archive the model by using the model archiver. The extra-files param uses a file from the TorchServe repo, so update the path if necessary.
 
-    torch-model-archiver --model-name densenet161 --version 1.0 --model-file ./serve/examples/image_classifier/densenet_161/model.py --serialized-file densenet161-8d451a50.pth --export-path model_store --extra-files ./serve/examples/image_classifier/index_to_name.json --handler image_classifier
-
+     torch-model-archiver --model-name resnet-18 --version 1.0 --model-file ./examples/image_classifier/resnet_18/model.py --serialized-file resnet18-f37072fd.pth --handler image_classifier --extra-files ./examples/image_classifier/index_to_name.json
 For more information about the model archiver, see Torch Model archiver for TorchServe
 
 ### Start TorchServe to serve the model
 
 After you archive and store the model, use the torchserve command to serve the model.
 
-    torchserve --start --ncs --model-store model_store --models densenet161.mar
+     torchserve --start --model-store model_store --models resnet-18=resnet-18.mar --ncs
 
 
 #### produces the output as :
