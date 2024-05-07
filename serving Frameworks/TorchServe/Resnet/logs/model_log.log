@@ -1,0 +1,488 @@
+2024-05-06T22:35:16,964 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9004, pid=125
+2024-05-06T22:35:16,968 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9000, pid=129
+2024-05-06T22:35:16,964 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9002, pid=130
+2024-05-06T22:35:17,015 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9005, pid=124
+2024-05-06T22:35:16,968 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9001, pid=128
+2024-05-06T22:35:16,966 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9006, pid=127
+2024-05-06T22:35:17,017 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9007, pid=126
+2024-05-06T22:35:16,966 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9003, pid=131
+2024-05-06T22:35:17,024 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9004
+2024-05-06T22:35:17,028 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9007
+2024-05-06T22:35:17,028 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - Successfully loaded /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-05-06T22:35:17,031 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9003
+2024-05-06T22:35:17,032 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9006
+2024-05-06T22:35:17,033 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9005
+2024-05-06T22:35:17,034 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9002
+2024-05-06T22:35:17,035 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9000
+2024-05-06T22:35:17,035 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - Successfully loaded /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-05-06T22:35:17,036 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - Successfully loaded /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-05-06T22:35:17,036 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9001
+2024-05-06T22:35:17,038 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - Successfully loaded /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-05-06T22:35:17,039 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - Successfully loaded /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-05-06T22:35:17,040 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - [PID]130
+2024-05-06T22:35:17,040 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - [PID]125
+2024-05-06T22:35:17,042 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - Successfully loaded /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-05-06T22:35:17,043 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - [PID]129
+2024-05-06T22:35:17,044 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - Successfully loaded /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-05-06T22:35:17,045 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-06T22:35:17,045 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - [PID]127
+2024-05-06T22:35:17,046 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - Successfully loaded /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-05-06T22:35:17,046 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - [PID]128
+2024-05-06T22:35:17,046 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - [PID]124
+2024-05-06T22:35:17,047 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - [PID]126
+2024-05-06T22:35:17,047 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - [PID]131
+2024-05-06T22:35:17,047 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-06T22:35:17,047 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-06T22:35:17,048 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-06T22:35:17,048 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2024-05-06T22:35:17,049 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-06T22:35:17,049 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-06T22:35:17,049 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-06T22:35:17,050 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-06T22:35:17,051 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2024-05-06T22:35:17,052 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2024-05-06T22:35:17,053 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2024-05-06T22:35:17,053 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2024-05-06T22:35:17,055 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2024-05-06T22:35:17,058 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2024-05-06T22:35:17,059 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2024-05-06T22:35:17,149 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9004.
+2024-05-06T22:35:17,149 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9006.
+2024-05-06T22:35:17,151 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9002.
+2024-05-06T22:35:17,151 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9000.
+2024-05-06T22:35:17,151 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9005.
+2024-05-06T22:35:17,151 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9003.
+2024-05-06T22:35:17,153 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9007.
+2024-05-06T22:35:17,153 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9001.
+2024-05-06T22:35:17,451 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - model_name: resnet-18, batchSize: 1
+2024-05-06T22:35:17,452 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - model_name: resnet-18, batchSize: 1
+2024-05-06T22:35:17,455 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - model_name: resnet-18, batchSize: 1
+2024-05-06T22:35:17,616 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - model_name: resnet-18, batchSize: 1
+2024-05-06T22:35:17,616 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - model_name: resnet-18, batchSize: 1
+2024-05-06T22:35:17,616 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - model_name: resnet-18, batchSize: 1
+2024-05-06T22:35:17,616 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - model_name: resnet-18, batchSize: 1
+2024-05-06T22:35:17,644 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - model_name: resnet-18, batchSize: 1
+2024-05-06T22:36:04,352 [WARN ] W-9004-resnet-18_1.0-stderr MODEL_LOG - /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+2024-05-06T22:36:04,358 [WARN ] W-9005-resnet-18_1.0-stderr MODEL_LOG - /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+2024-05-06T22:36:04,374 [WARN ] W-9001-resnet-18_1.0-stderr MODEL_LOG - /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+2024-05-06T22:36:04,419 [WARN ] W-9004-resnet-18_1.0-stderr MODEL_LOG -   warnings.warn("Can't initialize NVML")
+2024-05-06T22:36:04,419 [WARN ] W-9000-resnet-18_1.0-stderr MODEL_LOG - /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+2024-05-06T22:36:04,421 [WARN ] W-9002-resnet-18_1.0-stderr MODEL_LOG - /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+2024-05-06T22:36:04,424 [WARN ] W-9007-resnet-18_1.0-stderr MODEL_LOG - /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+2024-05-06T22:36:04,424 [WARN ] W-9003-resnet-18_1.0-stderr MODEL_LOG - /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+2024-05-06T22:36:04,425 [WARN ] W-9001-resnet-18_1.0-stderr MODEL_LOG -   warnings.warn("Can't initialize NVML")
+2024-05-06T22:36:04,426 [WARN ] W-9007-resnet-18_1.0-stderr MODEL_LOG -   warnings.warn("Can't initialize NVML")
+2024-05-06T22:36:04,428 [WARN ] W-9006-resnet-18_1.0-stderr MODEL_LOG - /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+2024-05-06T22:36:04,428 [WARN ] W-9005-resnet-18_1.0-stderr MODEL_LOG -   warnings.warn("Can't initialize NVML")
+2024-05-06T22:36:04,429 [WARN ] W-9003-resnet-18_1.0-stderr MODEL_LOG -   warnings.warn("Can't initialize NVML")
+2024-05-06T22:36:04,429 [WARN ] W-9006-resnet-18_1.0-stderr MODEL_LOG -   warnings.warn("Can't initialize NVML")
+2024-05-06T22:36:04,430 [WARN ] W-9000-resnet-18_1.0-stderr MODEL_LOG -   warnings.warn("Can't initialize NVML")
+2024-05-06T22:36:04,430 [WARN ] W-9002-resnet-18_1.0-stderr MODEL_LOG -   warnings.warn("Can't initialize NVML")
+2024-05-06T22:36:33,593 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-05-06T22:36:33,605 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-05-06T22:36:33,614 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-05-06T22:36:33,616 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-05-06T22:36:33,617 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-05-06T22:36:33,622 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-05-06T22:36:33,624 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-05-06T22:36:33,629 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-05-06T22:36:33,630 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-05-06T22:36:33,631 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-05-06T22:36:33,637 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-05-06T22:36:33,639 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-05-06T22:36:33,639 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-05-06T22:36:33,640 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-05-06T22:36:33,641 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-05-06T22:36:33,641 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-05-06T22:36:52,245 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - Backend received inference at: 1715015212
+2024-05-06T22:41:03,732 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - Backend received inference at: 1715015463
+2024-05-06T22:41:04,044 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - Invoking custom service failed.
+2024-05-06T22:41:04,045 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2024-05-06T22:41:04,061 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/service.py", line 134, in predict
+2024-05-06T22:41:04,062 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -     ret = self._entry_point(input_batch, self.context)
+2024-05-06T22:41:04,065 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:41:04,068 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/torch_handler/base_handler.py", line 416, in handle
+2024-05-06T22:41:04,071 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -     data_preprocess = self.preprocess(data)
+2024-05-06T22:41:04,072 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -                       ^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:41:04,074 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/handler_utils/timer.py", line 62, in wrap_func
+2024-05-06T22:41:04,075 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -     result = func(self, *args, **kwargs)
+2024-05-06T22:41:04,077 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:41:04,078 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/torch_handler/vision_handler.py", line 58, in preprocess
+2024-05-06T22:41:04,079 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -     image = torch.FloatTensor(image)
+2024-05-06T22:41:04,081 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -             ^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:41:04,082 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - TypeError: new(): data must be a sequence (got NoneType)
+2024-05-06T22:45:22,416 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - Backend received inference at: 1715015722
+2024-05-06T22:48:12,643 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - Backend received inference at: 1715015892
+2024-05-06T22:48:13,497 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - Invoking custom service failed.
+2024-05-06T22:48:13,542 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2024-05-06T22:48:13,544 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/service.py", line 134, in predict
+2024-05-06T22:48:13,545 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -     ret = self._entry_point(input_batch, self.context)
+2024-05-06T22:48:13,547 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:48:13,548 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/torch_handler/base_handler.py", line 416, in handle
+2024-05-06T22:48:13,550 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -     data_preprocess = self.preprocess(data)
+2024-05-06T22:48:13,551 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -                       ^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:48:13,552 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/handler_utils/timer.py", line 62, in wrap_func
+2024-05-06T22:48:13,554 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -     result = func(self, *args, **kwargs)
+2024-05-06T22:48:13,555 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:48:13,556 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/torch_handler/vision_handler.py", line 58, in preprocess
+2024-05-06T22:48:13,557 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -     image = torch.FloatTensor(image)
+2024-05-06T22:48:13,558 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -             ^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:48:13,559 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - TypeError: new(): data must be a sequence (got NoneType)
+2024-05-06T22:50:58,557 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - Backend received inference at: 1715016058
+2024-05-06T22:50:58,700 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - Invoking custom service failed.
+2024-05-06T22:50:58,702 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2024-05-06T22:50:58,703 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/service.py", line 134, in predict
+2024-05-06T22:50:58,705 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG -     ret = self._entry_point(input_batch, self.context)
+2024-05-06T22:50:58,707 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG -           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:50:58,709 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/torch_handler/base_handler.py", line 416, in handle
+2024-05-06T22:50:58,711 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG -     data_preprocess = self.preprocess(data)
+2024-05-06T22:50:58,712 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG -                       ^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:50:58,713 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/handler_utils/timer.py", line 62, in wrap_func
+2024-05-06T22:50:58,714 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG -     result = func(self, *args, **kwargs)
+2024-05-06T22:50:58,715 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:50:58,716 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/torch_handler/vision_handler.py", line 58, in preprocess
+2024-05-06T22:50:58,717 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG -     image = torch.FloatTensor(image)
+2024-05-06T22:50:58,718 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG -             ^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:50:58,719 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - TypeError: new(): data must be a sequence (got NoneType)
+2024-05-06T22:52:26,127 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - Backend received inference at: 1715016146
+2024-05-06T22:52:26,523 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - Invoking custom service failed.
+2024-05-06T22:52:26,525 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2024-05-06T22:52:26,526 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/service.py", line 134, in predict
+2024-05-06T22:52:26,528 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG -     ret = self._entry_point(input_batch, self.context)
+2024-05-06T22:52:26,529 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG -           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:52:26,548 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/torch_handler/base_handler.py", line 416, in handle
+2024-05-06T22:52:26,550 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG -     data_preprocess = self.preprocess(data)
+2024-05-06T22:52:26,551 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG -                       ^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:52:26,553 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/handler_utils/timer.py", line 62, in wrap_func
+2024-05-06T22:52:26,554 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG -     result = func(self, *args, **kwargs)
+2024-05-06T22:52:26,555 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:52:26,557 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/torch_handler/vision_handler.py", line 58, in preprocess
+2024-05-06T22:52:26,558 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG -     image = torch.FloatTensor(image)
+2024-05-06T22:52:26,559 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG -             ^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:52:26,561 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - TypeError: new(): data must be a sequence (got NoneType)
+2024-05-06T22:52:33,994 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - Backend received inference at: 1715016153
+2024-05-06T22:52:34,209 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - Invoking custom service failed.
+2024-05-06T22:52:34,209 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2024-05-06T22:52:34,210 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/service.py", line 134, in predict
+2024-05-06T22:52:34,211 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG -     ret = self._entry_point(input_batch, self.context)
+2024-05-06T22:52:34,211 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG -           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:52:34,234 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/torch_handler/base_handler.py", line 416, in handle
+2024-05-06T22:52:34,235 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG -     data_preprocess = self.preprocess(data)
+2024-05-06T22:52:34,235 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG -                       ^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:52:34,236 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/handler_utils/timer.py", line 62, in wrap_func
+2024-05-06T22:52:34,237 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG -     result = func(self, *args, **kwargs)
+2024-05-06T22:52:34,237 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:52:34,238 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/torch_handler/vision_handler.py", line 58, in preprocess
+2024-05-06T22:52:34,238 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG -     image = torch.FloatTensor(image)
+2024-05-06T22:52:34,238 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG -             ^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:52:34,239 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - TypeError: new(): data must be a sequence (got NoneType)
+2024-05-06T22:52:55,277 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - Backend received inference at: 1715016175
+2024-05-06T22:52:55,874 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - Invoking custom service failed.
+2024-05-06T22:52:55,875 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2024-05-06T22:52:55,876 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/service.py", line 134, in predict
+2024-05-06T22:52:55,877 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG -     ret = self._entry_point(input_batch, self.context)
+2024-05-06T22:52:55,878 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG -           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:52:55,880 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/torch_handler/base_handler.py", line 416, in handle
+2024-05-06T22:52:55,882 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG -     data_preprocess = self.preprocess(data)
+2024-05-06T22:52:55,884 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG -                       ^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:52:55,886 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/handler_utils/timer.py", line 62, in wrap_func
+2024-05-06T22:52:55,887 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG -     result = func(self, *args, **kwargs)
+2024-05-06T22:52:55,888 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:52:55,889 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/torch_handler/vision_handler.py", line 58, in preprocess
+2024-05-06T22:52:55,890 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG -     image = torch.FloatTensor(image)
+2024-05-06T22:52:55,891 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG -             ^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:52:55,892 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - TypeError: new(): data must be a sequence (got NoneType)
+2024-05-06T22:55:48,456 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - Backend received inference at: 1715016348
+2024-05-06T22:55:48,951 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - Invoking custom service failed.
+2024-05-06T22:55:48,952 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2024-05-06T22:55:48,954 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/service.py", line 134, in predict
+2024-05-06T22:55:48,955 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG -     ret = self._entry_point(input_batch, self.context)
+2024-05-06T22:55:48,957 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG -           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:55:48,968 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/torch_handler/base_handler.py", line 416, in handle
+2024-05-06T22:55:48,969 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG -     data_preprocess = self.preprocess(data)
+2024-05-06T22:55:48,971 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG -                       ^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:55:48,972 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/handler_utils/timer.py", line 62, in wrap_func
+2024-05-06T22:55:48,973 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG -     result = func(self, *args, **kwargs)
+2024-05-06T22:55:48,974 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:55:48,975 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/torch_handler/vision_handler.py", line 58, in preprocess
+2024-05-06T22:55:48,976 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG -     image = torch.FloatTensor(image)
+2024-05-06T22:55:48,977 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG -             ^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T22:55:48,979 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - TypeError: new(): data must be a sequence (got NoneType)
+2024-05-06T23:10:42,779 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - Backend received inference at: 1715017242
+2024-05-06T23:10:51,723 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - Invoking custom service failed.
+2024-05-06T23:10:51,724 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2024-05-06T23:10:51,725 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/service.py", line 134, in predict
+2024-05-06T23:10:51,727 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -     ret = self._entry_point(input_batch, self.context)
+2024-05-06T23:10:51,728 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T23:10:51,730 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/torch_handler/base_handler.py", line 416, in handle
+2024-05-06T23:10:51,732 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -     data_preprocess = self.preprocess(data)
+2024-05-06T23:10:51,733 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -                       ^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T23:10:51,735 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/handler_utils/timer.py", line 62, in wrap_func
+2024-05-06T23:10:51,736 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -     result = func(self, *args, **kwargs)
+2024-05-06T23:10:51,737 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T23:10:51,738 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/torch_handler/vision_handler.py", line 54, in preprocess
+2024-05-06T23:10:51,739 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -     image = Image.open(io.BytesIO(image))
+2024-05-06T23:10:51,741 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T23:10:51,742 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/PIL/Image.py", line 3339, in open
+2024-05-06T23:10:51,743 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG -     raise UnidentifiedImageError(msg)
+2024-05-06T23:10:51,744 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - PIL.UnidentifiedImageError: cannot identify image file <_io.BytesIO object at 0x7fbc001922f0>
+2024-05-06T23:11:33,783 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - Backend received inference at: 1715017293
+2024-05-06T23:11:35,196 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - Invoking custom service failed.
+2024-05-06T23:11:35,197 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2024-05-06T23:11:35,198 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/service.py", line 134, in predict
+2024-05-06T23:11:35,200 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG -     ret = self._entry_point(input_batch, self.context)
+2024-05-06T23:11:35,201 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG -           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T23:11:35,204 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/torch_handler/base_handler.py", line 416, in handle
+2024-05-06T23:11:35,205 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG -     data_preprocess = self.preprocess(data)
+2024-05-06T23:11:35,207 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG -                       ^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T23:11:35,208 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/handler_utils/timer.py", line 62, in wrap_func
+2024-05-06T23:11:35,210 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG -     result = func(self, *args, **kwargs)
+2024-05-06T23:11:35,211 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T23:11:35,212 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/torch_handler/vision_handler.py", line 54, in preprocess
+2024-05-06T23:11:35,214 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG -     image = Image.open(io.BytesIO(image))
+2024-05-06T23:11:35,215 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG -             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T23:11:35,216 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/PIL/Image.py", line 3339, in open
+2024-05-06T23:11:35,217 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG -     raise UnidentifiedImageError(msg)
+2024-05-06T23:11:35,219 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - PIL.UnidentifiedImageError: cannot identify image file <_io.BytesIO object at 0x7f0f8af92340>
+2024-05-06T23:11:43,177 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - Backend received inference at: 1715017303
+2024-05-06T23:11:45,032 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - Invoking custom service failed.
+2024-05-06T23:11:45,033 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2024-05-06T23:11:45,034 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/service.py", line 134, in predict
+2024-05-06T23:11:45,035 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -     ret = self._entry_point(input_batch, self.context)
+2024-05-06T23:11:45,037 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T23:11:45,040 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/torch_handler/base_handler.py", line 416, in handle
+2024-05-06T23:11:45,041 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -     data_preprocess = self.preprocess(data)
+2024-05-06T23:11:45,043 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -                       ^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T23:11:45,044 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/handler_utils/timer.py", line 62, in wrap_func
+2024-05-06T23:11:45,045 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -     result = func(self, *args, **kwargs)
+2024-05-06T23:11:45,046 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T23:11:45,047 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/torch_handler/vision_handler.py", line 54, in preprocess
+2024-05-06T23:11:45,048 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -     image = Image.open(io.BytesIO(image))
+2024-05-06T23:11:45,049 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T23:11:45,050 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/PIL/Image.py", line 3339, in open
+2024-05-06T23:11:45,051 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG -     raise UnidentifiedImageError(msg)
+2024-05-06T23:11:45,052 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - PIL.UnidentifiedImageError: cannot identify image file <_io.BytesIO object at 0x7f63e2d92430>
+2024-05-06T23:15:40,871 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - Backend received inference at: 1715017540
+2024-05-06T23:15:41,015 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - Invoking custom service failed.
+2024-05-06T23:15:41,016 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2024-05-06T23:15:41,017 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/service.py", line 134, in predict
+2024-05-06T23:15:41,019 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG -     ret = self._entry_point(input_batch, self.context)
+2024-05-06T23:15:41,021 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG -           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T23:15:41,023 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/torch_handler/base_handler.py", line 416, in handle
+2024-05-06T23:15:41,026 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG -     data_preprocess = self.preprocess(data)
+2024-05-06T23:15:41,027 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG -                       ^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T23:15:41,029 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/handler_utils/timer.py", line 62, in wrap_func
+2024-05-06T23:15:41,030 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG -     result = func(self, *args, **kwargs)
+2024-05-06T23:15:41,031 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T23:15:41,032 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/torch_handler/vision_handler.py", line 58, in preprocess
+2024-05-06T23:15:41,033 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG -     image = torch.FloatTensor(image)
+2024-05-06T23:15:41,034 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG -             ^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T23:15:41,035 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - TypeError: new(): data must be a sequence (got NoneType)
+2024-05-06T23:15:58,189 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - Backend received inference at: 1715017558
+2024-05-06T23:15:58,379 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - Invoking custom service failed.
+2024-05-06T23:15:58,380 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - Traceback (most recent call last):
+2024-05-06T23:15:58,381 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/service.py", line 134, in predict
+2024-05-06T23:15:58,382 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG -     ret = self._entry_point(input_batch, self.context)
+2024-05-06T23:15:58,382 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG -           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T23:15:58,384 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/torch_handler/base_handler.py", line 416, in handle
+2024-05-06T23:15:58,386 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG -     data_preprocess = self.preprocess(data)
+2024-05-06T23:15:58,387 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG -                       ^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T23:15:58,387 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/handler_utils/timer.py", line 62, in wrap_func
+2024-05-06T23:15:58,388 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG -     result = func(self, *args, **kwargs)
+2024-05-06T23:15:58,389 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG -              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T23:15:58,390 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG -   File "/home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/torch_handler/vision_handler.py", line 58, in preprocess
+2024-05-06T23:15:58,390 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG -     image = torch.FloatTensor(image)
+2024-05-06T23:15:58,391 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG -             ^^^^^^^^^^^^^^^^^^^^^^^^
+2024-05-06T23:15:58,391 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - TypeError: new(): data must be a sequence (got NoneType)
+2024-05-06T23:31:39,809 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9007, pid=620
+2024-05-06T23:31:39,814 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9002, pid=616
+2024-05-06T23:31:39,838 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9004, pid=615
+2024-05-06T23:31:39,836 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9001, pid=621
+2024-05-06T23:31:39,840 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9007
+2024-05-06T23:31:39,843 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9002
+2024-05-06T23:31:39,846 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - Successfully loaded /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-05-06T23:31:39,848 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - [PID]620
+2024-05-06T23:31:39,856 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9006, pid=622
+2024-05-06T23:31:39,870 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9003, pid=618
+2024-05-06T23:31:39,874 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9005, pid=619
+2024-05-06T23:31:39,876 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9000, pid=617
+2024-05-06T23:31:39,905 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-06T23:31:39,906 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9004
+2024-05-06T23:31:39,906 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9000
+2024-05-06T23:31:39,906 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2024-05-06T23:31:39,906 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9001
+2024-05-06T23:31:39,907 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9005
+2024-05-06T23:31:39,907 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - Successfully loaded /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-05-06T23:31:39,907 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9003
+2024-05-06T23:31:39,908 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9006
+2024-05-06T23:31:39,908 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - Successfully loaded /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-05-06T23:31:39,908 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - Successfully loaded /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-05-06T23:31:39,908 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - [PID]617
+2024-05-06T23:31:39,908 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - [PID]619
+2024-05-06T23:31:39,909 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - Successfully loaded /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-05-06T23:31:39,909 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-06T23:31:39,909 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - Successfully loaded /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-05-06T23:31:39,909 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - [PID]621
+2024-05-06T23:31:39,910 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2024-05-06T23:31:39,910 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-06T23:31:39,910 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - [PID]616
+2024-05-06T23:31:39,910 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - Successfully loaded /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-05-06T23:31:39,910 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2024-05-06T23:31:39,911 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - Successfully loaded /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-05-06T23:31:39,911 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - [PID]618
+2024-05-06T23:31:39,912 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-06T23:31:39,912 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - [PID]615
+2024-05-06T23:31:39,913 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2024-05-06T23:31:39,913 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-06T23:31:39,913 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-06T23:31:39,913 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - [PID]622
+2024-05-06T23:31:39,913 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2024-05-06T23:31:39,914 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-06T23:31:39,914 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-06T23:31:39,915 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2024-05-06T23:31:39,915 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2024-05-06T23:31:39,916 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2024-05-06T23:31:39,951 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9006.
+2024-05-06T23:31:39,951 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9003.
+2024-05-06T23:31:39,952 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9000.
+2024-05-06T23:31:39,951 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9004.
+2024-05-06T23:31:39,952 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9007.
+2024-05-06T23:31:39,954 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9001.
+2024-05-06T23:31:39,953 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9005.
+2024-05-06T23:31:39,952 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9002.
+2024-05-06T23:31:40,304 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - model_name: resnet-18, batchSize: 1
+2024-05-06T23:31:40,442 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - model_name: resnet-18, batchSize: 1
+2024-05-06T23:31:40,444 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - model_name: resnet-18, batchSize: 1
+2024-05-06T23:31:40,458 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - model_name: resnet-18, batchSize: 1
+2024-05-06T23:31:40,460 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - model_name: resnet-18, batchSize: 1
+2024-05-06T23:31:40,472 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - model_name: resnet-18, batchSize: 1
+2024-05-06T23:31:40,679 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - model_name: resnet-18, batchSize: 1
+2024-05-06T23:31:40,990 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - model_name: resnet-18, batchSize: 1
+2024-05-06T23:31:43,954 [WARN ] W-9006-resnet-18_1.0-stderr MODEL_LOG - /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+2024-05-06T23:31:43,963 [WARN ] W-9002-resnet-18_1.0-stderr MODEL_LOG - /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+2024-05-06T23:31:43,963 [WARN ] W-9006-resnet-18_1.0-stderr MODEL_LOG -   warnings.warn("Can't initialize NVML")
+2024-05-06T23:31:43,964 [WARN ] W-9005-resnet-18_1.0-stderr MODEL_LOG - /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+2024-05-06T23:31:43,970 [WARN ] W-9001-resnet-18_1.0-stderr MODEL_LOG - /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+2024-05-06T23:31:43,971 [WARN ] W-9002-resnet-18_1.0-stderr MODEL_LOG -   warnings.warn("Can't initialize NVML")
+2024-05-06T23:31:43,976 [WARN ] W-9004-resnet-18_1.0-stderr MODEL_LOG - /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+2024-05-06T23:31:43,978 [WARN ] W-9007-resnet-18_1.0-stderr MODEL_LOG - /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+2024-05-06T23:31:43,979 [WARN ] W-9001-resnet-18_1.0-stderr MODEL_LOG -   warnings.warn("Can't initialize NVML")
+2024-05-06T23:31:43,980 [WARN ] W-9005-resnet-18_1.0-stderr MODEL_LOG -   warnings.warn("Can't initialize NVML")
+2024-05-06T23:31:43,982 [WARN ] W-9007-resnet-18_1.0-stderr MODEL_LOG -   warnings.warn("Can't initialize NVML")
+2024-05-06T23:31:43,983 [WARN ] W-9004-resnet-18_1.0-stderr MODEL_LOG -   warnings.warn("Can't initialize NVML")
+2024-05-06T23:31:43,993 [WARN ] W-9000-resnet-18_1.0-stderr MODEL_LOG - /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+2024-05-06T23:31:43,995 [WARN ] W-9000-resnet-18_1.0-stderr MODEL_LOG -   warnings.warn("Can't initialize NVML")
+2024-05-06T23:31:43,996 [WARN ] W-9003-resnet-18_1.0-stderr MODEL_LOG - /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+2024-05-06T23:31:43,997 [WARN ] W-9003-resnet-18_1.0-stderr MODEL_LOG -   warnings.warn("Can't initialize NVML")
+2024-05-06T23:31:51,172 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-05-06T23:31:51,175 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-05-06T23:31:51,176 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-05-06T23:31:51,176 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-05-06T23:31:51,178 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-05-06T23:31:51,179 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-05-06T23:31:51,179 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-05-06T23:31:51,179 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-05-06T23:31:51,180 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-05-06T23:31:51,181 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-05-06T23:31:51,182 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-05-06T23:31:51,186 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-05-06T23:31:51,187 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-05-06T23:31:51,188 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-05-06T23:31:51,189 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-05-06T23:31:51,191 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-05-06T23:38:37,659 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9003, pid=898
+2024-05-06T23:38:37,679 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9003
+2024-05-06T23:38:37,683 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9002, pid=899
+2024-05-06T23:38:37,670 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9000, pid=900
+2024-05-06T23:38:37,679 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9001, pid=896
+2024-05-06T23:38:37,679 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9004, pid=901
+2024-05-06T23:38:37,686 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9001
+2024-05-06T23:38:37,687 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - Successfully loaded /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-05-06T23:38:37,688 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9002
+2024-05-06T23:38:37,688 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - [PID]896
+2024-05-06T23:38:37,689 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - Successfully loaded /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-05-06T23:38:37,689 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9004
+2024-05-06T23:38:37,690 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - Successfully loaded /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-05-06T23:38:37,694 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - [PID]901
+2024-05-06T23:38:37,694 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-06T23:38:37,695 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2024-05-06T23:38:37,697 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9006, pid=895
+2024-05-06T23:38:37,700 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9007, pid=897
+2024-05-06T23:38:37,702 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9005, pid=894
+2024-05-06T23:38:37,703 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9000
+2024-05-06T23:38:37,704 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-06T23:38:37,704 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - Successfully loaded /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-05-06T23:38:37,705 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2024-05-06T23:38:37,705 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - [PID]899
+2024-05-06T23:38:37,705 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9005
+2024-05-06T23:38:37,706 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-06T23:38:37,706 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2024-05-06T23:38:37,711 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9007
+2024-05-06T23:38:37,711 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - [PID]898
+2024-05-06T23:38:37,711 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9006
+2024-05-06T23:38:37,712 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-06T23:38:37,712 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2024-05-06T23:38:37,717 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - Successfully loaded /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-05-06T23:38:37,717 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - Successfully loaded /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-05-06T23:38:37,718 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - [PID]900
+2024-05-06T23:38:37,718 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - Successfully loaded /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-05-06T23:38:37,718 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - [PID]895
+2024-05-06T23:38:37,718 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-06T23:38:37,718 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - Successfully loaded /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-05-06T23:38:37,719 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2024-05-06T23:38:37,720 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-06T23:38:37,720 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - [PID]897
+2024-05-06T23:38:37,720 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2024-05-06T23:38:37,721 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - [PID]894
+2024-05-06T23:38:37,721 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-06T23:38:37,722 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-06T23:38:37,722 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2024-05-06T23:38:37,723 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - Python runtime: 3.12.3
+2024-05-06T23:38:37,749 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9006.
+2024-05-06T23:38:37,749 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9003.
+2024-05-06T23:38:37,749 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9004.
+2024-05-06T23:38:37,750 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9002.
+2024-05-06T23:38:37,751 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9007.
+2024-05-06T23:38:37,750 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9005.
+2024-05-06T23:38:37,750 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9000.
+2024-05-06T23:38:37,750 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9001.
+2024-05-06T23:38:38,063 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - model_name: resnet-18, batchSize: 1
+2024-05-06T23:38:38,064 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - model_name: resnet-18, batchSize: 1
+2024-05-06T23:38:38,227 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - model_name: resnet-18, batchSize: 1
+2024-05-06T23:38:38,230 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - model_name: resnet-18, batchSize: 1
+2024-05-06T23:38:38,237 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - model_name: resnet-18, batchSize: 1
+2024-05-06T23:38:38,242 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - model_name: resnet-18, batchSize: 1
+2024-05-06T23:38:38,243 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - model_name: resnet-18, batchSize: 1
+2024-05-06T23:38:38,307 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - model_name: resnet-18, batchSize: 1
+2024-05-06T23:38:42,402 [WARN ] W-9005-resnet-18_1.0-stderr MODEL_LOG - /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+2024-05-06T23:38:42,406 [WARN ] W-9001-resnet-18_1.0-stderr MODEL_LOG - /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+2024-05-06T23:38:42,406 [WARN ] W-9006-resnet-18_1.0-stderr MODEL_LOG - /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+2024-05-06T23:38:42,411 [WARN ] W-9007-resnet-18_1.0-stderr MODEL_LOG - /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+2024-05-06T23:38:42,412 [WARN ] W-9000-resnet-18_1.0-stderr MODEL_LOG - /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+2024-05-06T23:38:42,413 [WARN ] W-9004-resnet-18_1.0-stderr MODEL_LOG - /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+2024-05-06T23:38:42,413 [WARN ] W-9005-resnet-18_1.0-stderr MODEL_LOG -   warnings.warn("Can't initialize NVML")
+2024-05-06T23:38:42,412 [WARN ] W-9003-resnet-18_1.0-stderr MODEL_LOG - /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+2024-05-06T23:38:42,414 [WARN ] W-9000-resnet-18_1.0-stderr MODEL_LOG -   warnings.warn("Can't initialize NVML")
+2024-05-06T23:38:42,415 [WARN ] W-9007-resnet-18_1.0-stderr MODEL_LOG -   warnings.warn("Can't initialize NVML")
+2024-05-06T23:38:42,415 [WARN ] W-9006-resnet-18_1.0-stderr MODEL_LOG -   warnings.warn("Can't initialize NVML")
+2024-05-06T23:38:42,416 [WARN ] W-9001-resnet-18_1.0-stderr MODEL_LOG -   warnings.warn("Can't initialize NVML")
+2024-05-06T23:38:42,416 [WARN ] W-9002-resnet-18_1.0-stderr MODEL_LOG - /home/dhanushbabu/miniconda3/envs/myenv/lib/python3.12/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+2024-05-06T23:38:42,417 [WARN ] W-9002-resnet-18_1.0-stderr MODEL_LOG -   warnings.warn("Can't initialize NVML")
+2024-05-06T23:38:42,418 [WARN ] W-9003-resnet-18_1.0-stderr MODEL_LOG -   warnings.warn("Can't initialize NVML")
+2024-05-06T23:38:42,419 [WARN ] W-9004-resnet-18_1.0-stderr MODEL_LOG -   warnings.warn("Can't initialize NVML")
+2024-05-06T23:38:53,677 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-05-06T23:38:53,687 [INFO ] W-9006-resnet-18_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-05-06T23:38:53,690 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-05-06T23:38:53,692 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-05-06T23:38:53,707 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-05-06T23:38:53,712 [INFO ] W-9003-resnet-18_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-05-06T23:38:53,717 [INFO ] W-9002-resnet-18_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-05-06T23:38:53,719 [INFO ] W-9001-resnet-18_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-05-06T23:38:53,722 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-05-06T23:38:53,723 [INFO ] W-9005-resnet-18_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-05-06T23:38:53,739 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-05-06T23:38:53,740 [INFO ] W-9000-resnet-18_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-05-06T23:38:53,750 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-05-06T23:38:53,751 [INFO ] W-9007-resnet-18_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-05-06T23:38:53,758 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-05-06T23:38:53,759 [INFO ] W-9004-resnet-18_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
