@@ -97,7 +97,7 @@ All interactions with the endpoint will be logged in the logs/ directory, so mak
 
 ### Stop TorchServe
 
-torchserve --stop
+            torchserve --stop
 
 ## Inspect the logs
 
