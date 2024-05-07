@@ -1,0 +1,7 @@
+2024-05-07T00:00:32,604 - CPUUtilization.Percent:100.0|#Level:Host|#hostname:NOVO,timestamp:1715020232
+2024-05-07T00:00:33,188 - DiskAvailable.Gigabytes:54.93632888793945|#Level:Host|#hostname:NOVO,timestamp:1715020233
+2024-05-07T00:00:33,190 - DiskUsage.Gigabytes:182.83319854736328|#Level:Host|#hostname:NOVO,timestamp:1715020233
+2024-05-07T00:00:33,191 - DiskUtilization.Percent:76.9|#Level:Host|#hostname:NOVO,timestamp:1715020233
+2024-05-07T00:00:33,193 - MemoryAvailable.Megabytes:1018.921875|#Level:Host|#hostname:NOVO,timestamp:1715020233
+2024-05-07T00:00:33,195 - MemoryUsed.Megabytes:7001.0546875|#Level:Host|#hostname:NOVO,timestamp:1715020233
+2024-05-07T00:00:33,196 - MemoryUtilization.Percent:87.4|#Level:Host|#hostname:NOVO,timestamp:1715020233

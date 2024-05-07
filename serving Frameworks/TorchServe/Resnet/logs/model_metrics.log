@@ -1,0 +1,4 @@
+2024-05-06T22:36:52,691 - HandlerTime.ms:445.06|#ModelName:resnet-18,Level:Model|#hostname:NOVO,requestID:52b3996b-9e6c-4cf7-89a1-d7c9e81b4b21,timestamp:1715015212
+2024-05-06T22:36:52,698 - PredictionTime.ms:445.34|#ModelName:resnet-18,Level:Model|#hostname:NOVO,requestID:52b3996b-9e6c-4cf7-89a1-d7c9e81b4b21,timestamp:1715015212
+2024-05-06T22:45:22,867 - HandlerTime.ms:450.48|#ModelName:resnet-18,Level:Model|#hostname:NOVO,requestID:658c5196-c7cd-428a-b491-6a3fa8072263,timestamp:1715015722
+2024-05-06T22:45:22,906 - PredictionTime.ms:450.77|#ModelName:resnet-18,Level:Model|#hostname:NOVO,requestID:658c5196-c7cd-428a-b491-6a3fa8072263,timestamp:1715015722
