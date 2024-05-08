@@ -79,7 +79,7 @@ kitten
 And then call the prediction endpoint
 
 
-    curl http://127.0.0.1:8080/predictions/densenet161 -T kitten_small.jpg
+    curl http://127.0.0.1:8080/predictions/resnet-18 -T kitten_small.jpg
 
 Which will return the following JSON object
         
