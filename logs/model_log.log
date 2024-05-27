@@ -1,0 +1,12 @@
+2024-05-26T22:10:02,221 [INFO ] W-9000-resnet18_1.0-stdout MODEL_LOG - s_name_part0=/tmp/.ts.sock, s_name_part1=9000, pid=17340
+2024-05-26T22:10:02,224 [INFO ] W-9000-resnet18_1.0-stdout MODEL_LOG - Listening on port: /tmp/.ts.sock.9000
+2024-05-26T22:10:02,228 [INFO ] W-9000-resnet18_1.0-stdout MODEL_LOG - Successfully loaded /home/adc/anaconda3/envs/sat_serve/lib/python3.11/site-packages/ts/configs/metrics.yaml.
+2024-05-26T22:10:02,228 [INFO ] W-9000-resnet18_1.0-stdout MODEL_LOG - [PID]17340
+2024-05-26T22:10:02,229 [INFO ] W-9000-resnet18_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-26T22:10:02,229 [INFO ] W-9000-resnet18_1.0-stdout MODEL_LOG - Python runtime: 3.11.8
+2024-05-26T22:10:02,253 [INFO ] W-9000-resnet18_1.0-stdout MODEL_LOG - Connection accepted: /tmp/.ts.sock.9000.
+2024-05-26T22:10:02,309 [INFO ] W-9000-resnet18_1.0-stdout MODEL_LOG - model_name: resnet18, batchSize: 1
+2024-05-26T22:10:04,220 [INFO ] W-9000-resnet18_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-05-26T22:10:04,221 [INFO ] W-9000-resnet18_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-05-26T22:10:04,220 [WARN ] W-9000-resnet18_1.0-stderr MODEL_LOG - /home/adc/anaconda3/envs/sat_serve/lib/python3.11/site-packages/torch/cuda/__init__.py:141: UserWarning: CUDA initialization: CUDA driver initialization failed, you might not have a CUDA gpu. (Triggered internally at ../c10/cuda/CUDAFunctions.cpp:108.)
+2024-05-26T22:10:04,224 [WARN ] W-9000-resnet18_1.0-stderr MODEL_LOG -   return torch._C._cuda_getDeviceCount() > 0
