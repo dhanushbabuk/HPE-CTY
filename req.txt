@@ -1,6 +1,0 @@
-torch
-torchvision
-transformers
-torchserve
-torch-model-archiver
-sentencepiece
