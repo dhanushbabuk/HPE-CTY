@@ -1,0 +1,8 @@
+2024-05-28T18:54:01,196 - HandlerTime.ms:294.55|#ModelName:resnet18,Level:Model|#hostname:Deeku,requestID:8a433842-aec2-448c-8d9c-54ff30bfd9fc,timestamp:1716902641
+2024-05-28T18:54:01,204 - PredictionTime.ms:295.29|#ModelName:resnet18,Level:Model|#hostname:Deeku,requestID:8a433842-aec2-448c-8d9c-54ff30bfd9fc,timestamp:1716902641
+2024-05-28T18:54:07,488 - HandlerTime.ms:147.47|#ModelName:resnet18,Level:Model|#hostname:Deeku,requestID:4943b632-ce15-4030-934b-afce9bc95dea,timestamp:1716902647
+2024-05-28T18:54:07,491 - PredictionTime.ms:147.91|#ModelName:resnet18,Level:Model|#hostname:Deeku,requestID:4943b632-ce15-4030-934b-afce9bc95dea,timestamp:1716902647
+2024-05-28T19:01:40,589 - HandlerTime.ms:277.38|#ModelName:resnet18,Level:Model|#hostname:Deeku,requestID:db9dded7-2d5c-44d3-85f0-91e0168c35a5,timestamp:1716903100
+2024-05-28T19:01:40,590 - PredictionTime.ms:280.83|#ModelName:resnet18,Level:Model|#hostname:Deeku,requestID:db9dded7-2d5c-44d3-85f0-91e0168c35a5,timestamp:1716903100
+2024-05-28T19:01:41,283 - HandlerTime.ms:428.79|#ModelName:resnet18,Level:Model|#hostname:Deeku,requestID:986f36bb-47d0-4571-8f8d-980b83b53fdd,timestamp:1716903101
+2024-05-28T19:01:41,284 - PredictionTime.ms:431.2|#ModelName:resnet18,Level:Model|#hostname:Deeku,requestID:986f36bb-47d0-4571-8f8d-980b83b53fdd,timestamp:1716903101

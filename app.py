@@ -10,7 +10,7 @@ import requests
 import streamlit as st
 from PIL import Image
 
-from .modelinvoker import ModelInvoker
+from hpe.modelinvoker import ModelInvoker
 
 # Define hardcoded parameters
 MODEL_STORE = "model_store"
@@ -28,7 +28,7 @@ CURRENT_MODEL = None
 
 def is_torchserve_running():
     try:
-        ts_addr = "http://localhost:8080/ping"
+        ts_addr = "http://localhost:8501/ping"
         response = requests.get(ts_addr)
         if response.status_code == 200:
             return True
@@ -249,7 +249,7 @@ def main():
 
     # Model selection dropdown in the sidebar
     serving_engine_choice = st.sidebar.selectbox(
-        "Select ML Serving Engine", ["None", "TorchServe", "VLLM"])
+        "Select ML Serving Engine", ["None", "torchserve", "VLLM"])
 
     # Model selection dropdown in the sidebar
     model_choice = st.sidebar.selectbox(
@@ -263,8 +263,10 @@ def main():
     if st.session_state.get("last_model_choice") != model_choice:
         st.session_state["last_model_choice"] = model_choice
         if model_choice != "None":
-            stop_torchserve()
-            launch_torchserve(model_choice)
+            # stop_torchserve()
+            # launch_torchserve(model_choice)
+            serving_engine_choice = "torchserve"
+            model_invoker.invoke("resnet18", "resnet-18.mar")
 
     # Display input fields based on selected model
     if model_choice == "ResNet18":
@@ -273,7 +275,7 @@ def main():
             "Upload images", type=["jpg", "jpeg", "png"], accept_multiple_files=True)
         if st.sidebar.button("Launch TorchServe"):
             if model_choice != "None":
-                launch_torchserve(model_choice)
+                model_invoker.invoke("resnet18", "resnet-18.mar")
         if st.sidebar.button("Stop TorchServe"):
             stop_torchserve()
 
