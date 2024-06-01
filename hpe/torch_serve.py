@@ -28,7 +28,7 @@ class TorchServeManager:
 
         try:
             print(f"Starting TorchServe with {model_name}...")
-            os.system(f"torchserve --start --ncs --model-store {MODEL_STORE} --models {model_name.lower()}={model_file}")
+            os.system(f"torchserve --start --ncs --model-store model_store --models {model_name.lower()}={model_file}")  
             self.current_model = model_name
             time.sleep(5)
         except Exception as e:
