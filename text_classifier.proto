@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+service TextClassifier {
+  rpc ClassifyText (TextRequest) returns (ClassificationResponse) {}
+}
+
+message TextRequest {
+  string text = 1;
+}
+
+message ClassificationResponse {
+  string category = 1;
+  float confidence = 2;
+  float handler_time = 3;  // Added handler_time
+}
+
